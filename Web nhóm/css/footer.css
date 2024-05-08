@@ -1,0 +1,30 @@
+/* styles.css */
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    z-index: 999;
+    /* Ensure it's above other content if necessary */
+}
+
+.footer-section {
+    flex: 1;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.footer-section h3 {
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.footer-section p {
+    font-size: 14px;
+    line-height: 1.5;
+}

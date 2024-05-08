@@ -1,0 +1,31 @@
+.bst-img {
+    display: flex;
+}
+
+.bcn-img {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item a {
+    color: coral;
+    text-decoration: none;
+}
+
+.item a:hover {
+    color: rgb(255, 219, 207);
+}
+
+.item img {
+    display: block;
+    transition: all .3s ease;
+}
+
+.item img:hover {
+    transform: scale(1.3);
+}
+
+.item div {
+    display: block;
+    overflow: hidden;
+}

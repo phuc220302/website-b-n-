@@ -1,0 +1,18 @@
+.content {
+    margin-top: 10%;
+}
+
+h1 {
+    text-align: center;
+    color: coral;
+}
+
+.main-content {
+    margin: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}

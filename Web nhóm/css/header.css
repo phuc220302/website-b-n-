@@ -1,0 +1,26 @@
+.header {
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li {
+    list-style: none;
+    padding: 10px;
+}
+
+.menu li a {
+    color: chocolate;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    color: rgb(255, 173, 119);
+}
